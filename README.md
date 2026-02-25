@@ -1,20 +1,29 @@
 # 🧮 JavaScript Calculator
 
-A simple interactive calculator built using HTML, CSS, and JavaScript.
+A simple calculator built using HTML, CSS, and JavaScript.
 
-## Features
-- Basic arithmetic operations
-- Clear and Delete functions
-- Error handling
-- Responsive layout
+## 🚀 Features
+- Perform basic arithmetic operations (+, -, *, /)
+- Clear button functionality
+- Responsive UI
+- DOM manipulation
 
-## Technologies Used
+## 🛠️ Technologies Used
 - HTML
-- CSS (Grid Layout)
-- JavaScript (DOM Manipulation)
+- CSS
+- JavaScript
 
-## What I Learned
-- DOM selection and manipulation
+## 📚 What I Learned
+- DOM manipulation
 - Event handling
-- Basic error handling using try-catch
-- Writing clean and structured code
+- JavaScript functions
+- Basic project structuring
+
+## 🔮 Future Improvements
+- Add keyboard support
+- Add dark mode
+- Add scientific functions
+
+---
+
+Made with ❤️ by Siddhi
